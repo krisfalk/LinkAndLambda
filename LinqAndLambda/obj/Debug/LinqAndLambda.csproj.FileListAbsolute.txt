@@ -1,0 +1,6 @@
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe.config
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.pdb
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\Chat Server Client\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.pdb
